@@ -1,0 +1,1 @@
+<div>	<?php		foreach ($paymentInfo as $paymentArticle) {			echo $paymentArticle['content'];		}	?></div>

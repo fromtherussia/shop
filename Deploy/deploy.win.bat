@@ -1,0 +1,2 @@
+%CD%\..\..\..\..\..\usr\local\pgsql-8.4\bin\psql -U postgres -h localhost --file=create.sql -d mrot_shop
+%CD%\..\..\..\..\..\usr\local\pgsql-8.4\bin\psql -U postgres -h localhost --file=testData.sql -d mrot_shop

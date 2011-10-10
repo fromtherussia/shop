@@ -1,0 +1,25 @@
+div.panel {
+	border: 1px solid #000;
+}
+
+div.panel div.controls {
+	border: 1px solid #000;
+}
+
+div.panel div.controls div.visibility-trigger {
+	border: 1px solid #000;
+	width: 16px;
+	height: 16px;
+}
+
+div.panel div.controls div.visibility-trigger.hidden {
+	background-color: #f00;
+}
+
+div.panel div.controls div.visibility-trigger.shown {
+	background-color: #0f0;
+}
+
+div.panel div.content {
+	min-height: 20px;
+}

@@ -1,0 +1,22 @@
+.lc-popup-message {
+	padding: 10px;
+	border: 1px solid #000;
+}
+
+.lc-popup-message.error {
+	color: #b70000;
+	background-color: #ffebeb;
+	border-color: #d91111;
+}
+
+.lc-popup-message.success {
+	color: #00b709;
+	background-color: #efffeb;
+	border-color: #37d911;
+}
+
+.lc-popup-message.info {
+	color: #00626b;
+	background-color: #ebfdff;
+	border-color: #0994a1;
+}

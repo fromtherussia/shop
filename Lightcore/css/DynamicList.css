@@ -1,0 +1,18 @@
+div.dynamic-list-item {
+	border: 1px solid #2e95ff;
+	background-color: #ebf5ff;
+	margin: 3px;
+}
+
+div.dynamic-list-item:hover {
+	border: 1px solid #208dfe;
+	background-color: #e3f1ff;
+}
+
+div.dynamic-list-item div.delete-button {
+	margin-left: 5px;
+	margin-top: 5px;
+	background-image: url('css/Images/DeleteIcon.png');
+	width: 16px;
+	height: 16px;
+}

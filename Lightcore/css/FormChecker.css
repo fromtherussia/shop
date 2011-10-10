@@ -1,0 +1,38 @@
+div.checkable-control {
+	padding: 3px;
+	padding-bottom: 6px;
+}
+
+div.checkable-control.error {
+	border: 1px solid #ff7272;
+	background-color: #fef0f2;
+}
+
+div.checkable-control.success {
+	border: 1px solid #8bff72;
+	background-color: #f6fff4;
+}
+
+div.checkable-control.error .message {
+	padding: 4px;
+	color: #751500;
+}
+
+div.checkable-control.success .message {
+	padding: 4px;
+	color: #157500;
+}
+
+div.icon {
+	margin: 6px 2px;
+	width: 16px;
+	height: 16px;
+}
+
+div.icon.success {
+	background-image: url('css/Images/OkIcon.png');
+}
+
+div.icon.error {
+	background-image: url('css/Images/ErrorIcon.png');
+}

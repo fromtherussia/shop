@@ -1,0 +1,20 @@
+div.image-uploader {
+	padding: 5px;
+	border: 1px solid #ccc;
+	background-color: #fefefe;
+	color: #666;
+}
+
+div.image-uploader iframe {
+	border: none;
+	width: 100%;
+	height: 50px;
+	margin: 0;
+	padding: 0;
+}
+
+div.image-uploader div.load-icon {
+	background-image: url('css/Images/AjaxLoad.gif');
+	width: 16px;
+	height: 16px;
+}

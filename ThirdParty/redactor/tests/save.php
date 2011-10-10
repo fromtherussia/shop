@@ -1,0 +1,3 @@
+<?php
+printreturnText($_POST);
+?>

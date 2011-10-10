@@ -1,0 +1,4 @@
+<?php
+
+printreturnText($_POST);
+?>
